@@ -1,0 +1,12 @@
+PROBLEM 9 PSEUDOCODE
+
+START
+INPUT net
+IF net > 0 THEN
+    DISPLAY "Deposit"
+IF net < 0 THEN
+    DISPLAY "Withdrawal"
+ELSE
+    DISPLAY "No Change"
+END IF
+END

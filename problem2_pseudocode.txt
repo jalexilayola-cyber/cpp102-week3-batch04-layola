@@ -1,0 +1,7 @@
+PROBLEM 2 PSEUDOCODE
+
+START
+INPUT radius
+PROCESS area = radius * 3.1416
+DISPLAY area
+END

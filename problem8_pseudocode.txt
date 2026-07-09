@@ -1,0 +1,10 @@
+PROBLEM 8 PSEUDOCODE
+
+START 
+INPUT gwa
+IF gwa >= 90 THEN
+    DISPLAY "Eligible for Scholarship"
+ELSE
+    DISPLAY "Not Eligible for Scholarship"
+END IF 
+END

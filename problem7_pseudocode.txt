@@ -1,0 +1,11 @@
+PROBLEM 7 PSEUDOCODE
+
+START
+INPUT lab work
+INPUT attendace
+INPUT quiz scores
+PROCESS laboratory standing = (lab work * 40%) + 
+                                      (attendace * 20%) +
+                                      (quiz scores * 40%)
+DISPLAY laboratory standing
+END

@@ -1,0 +1,8 @@
+PROBLEM 1 ALGORITHM
+
+Step 1: Start.
+Step 2: Ask the user to enter the total number of snacks. Store it as snacks.
+Step 3: Ask the user to enter the number of friends. Store it as friends.
+Step 4: Compute snack sharing = snacks / friends.
+Step 5: Display snack sharing.
+Step 6: End.

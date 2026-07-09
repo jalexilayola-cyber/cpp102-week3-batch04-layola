@@ -1,0 +1,9 @@
+PROBLEM 6 PSEUDOCODE
+
+START
+INPUT budget
+INPUT days
+INPUT transportation
+PROCESS monthly budget = (budget * days) + (transportation * days)
+DISPLAY monthly budget
+END

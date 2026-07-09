@@ -1,0 +1,7 @@
+PROBLEM 10 ALGORITHM
+
+Step 1: Start.
+Step 2: Ask the user to enter their jersey number. Store it as jersey number.
+Step 3: Check if jersey number is MOD 2 = 0.
+Step 4: If yes, display "Even".
+Step 5: If no, display "Odd".

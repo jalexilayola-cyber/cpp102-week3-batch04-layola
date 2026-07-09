@@ -1,0 +1,10 @@
+PROBLEM 10 PSEUDOCODE
+
+START 
+INPUT jersey number
+IF jersey number MOD 2 = 0 THEN
+    DISPLAY "Even"
+ELSE
+    DISPLAY "Odd"
+END IF
+END

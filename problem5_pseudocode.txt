@@ -1,0 +1,11 @@
+PROBLEM 5 PSEUDOCODE
+
+START
+INPUT price1, quantity1
+INPUT price2, quantity2
+INPUT price3, quantity3
+PROCESS total cost = (price1 * quantity1) +
+                     (price2 * quantity2) +
+                     (price3 * quantity3)
+DISPLAY total cost
+END

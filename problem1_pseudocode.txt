@@ -1,0 +1,8 @@
+PROBLEM 1 PSEUDOCODE
+
+START 
+INPUT snacks
+INPUT friends
+PROCESS snack sharing = snacks/friends
+DISPLAY snack sharing
+END

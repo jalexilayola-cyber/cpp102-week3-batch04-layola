@@ -1,0 +1,8 @@
+PROBLEM 3 PSEUDOCODE
+
+START
+INPUT rateperkWh
+INPUT kWh
+PROCESS electric bill = rateperkWh * kWh
+DISPLAY electric bill
+END

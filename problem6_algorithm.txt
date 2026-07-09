@@ -1,0 +1,9 @@
+PROBLEM 6 ALGORITHM
+
+Step 1: Start.
+Step 2: Ask the user to enter the daily budget. Store it as budget.
+Step 3: Ask the user to enter the number of days. Store it as days.
+Step 4: Ask the user to enter the daily transportation allowance. Store it as transportation.
+Step 5: Compute monthly budget = (budget * days) + (transportation * days).
+Step 6: Display monthly budget.
+Step 7: End.

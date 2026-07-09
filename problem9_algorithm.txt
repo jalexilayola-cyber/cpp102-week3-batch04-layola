@@ -1,0 +1,8 @@
+PROBLEM 9 ALGORITHM
+
+Step 1: Start.
+Step 2: Ask the user to enter the net transaction amount. Store it as net.
+Step 3: If net is > 0, display "Deposit".
+Step 4: If net is < 0, display "Withdrawal".
+Step 5: If net is = 0, display "No Change".
+Step 6: End.

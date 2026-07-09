@@ -1,0 +1,9 @@
+PROBLEM 4 PSEUDOCODE
+
+START
+INPUT score1
+INPUT score2
+INPUT score3
+PROCESS project score average = (score1 + score2 + score3) / 3
+DISPLAY project score average
+END

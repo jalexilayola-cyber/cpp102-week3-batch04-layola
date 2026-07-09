@@ -1,0 +1,8 @@
+PROBLEM 8 ALGORITHM
+
+Step 1: Start.
+Step 2: Ask the user to enter their general weighted average. Store it as gwa.
+Step 3: Check if gwa is 90 or above.
+Step 4: If yes, display "Eligible for Scholarship".
+Step 5: If no, display "Not Eligible for Scholarship".
+Step 6: End.

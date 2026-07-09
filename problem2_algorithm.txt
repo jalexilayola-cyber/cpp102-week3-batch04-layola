@@ -1,0 +1,7 @@
+PROBLEM 2 ALGORITHM
+
+Step 1: Start.
+Step 2: Ask the user to enter the radius. Store it as radius.
+Step 3: Compute area = radius * 3.1416.
+Step 4: Display area.
+Step 5: End.

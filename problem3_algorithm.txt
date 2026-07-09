@@ -1,0 +1,8 @@
+PROBLEM 3 ALGORITHM
+
+Step 1: Start.
+Step 2: Ask the user to enter the rate per kWh. Store it as rateperkWh.
+Step 3: Ask the user to enter the total kWh. Store it as kWh.
+Step 4: Compute electric bill = rateperkWh * kWh.
+Step 5: Display electric bill.
+Step 6: End.
